@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "description_header": "안녕하세요",
+    "description": "👋 안녕하세요. 저는 Full Stack 개발자 정상민입니다. 저는 React, .Net, SQL을 주로 사용하여 여러 앱을 만들었습니다. 이뿐만 아니라 다른 언어를 사용해서 프로젝트를 한 경험도 있습니다. 이러한 경험을 바탕으로 어떤 프로그램도 만들 자신이 있습니다!.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "블루북",
+      "startDate": "2023",
+      "description": "현재 진행중인 프로젝트. SAT가 온라인 플랫폼으로 바뀌면서 만들어진 블루북을 본떠 만든 프로그램입니다. 학원은 이 사이트를 통해서 모의 시험을 만들 수 있고 학생들은 시험을 보고 성적과 결과를 볼 수 있는 사이트입니다.",
+      "images": [
+        "images/portfolio/bluebook/p1.png",
+        "images/portfolio/bluebook/p2.png"
+      ],
+      "url": "https://github.com/damon6291/bluebook",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "title": "한인택시",
+      "startDate": "2022",
+      "description": "우버같은 앱이지만 B2B를 담당하는 프로그램입니다. 회사를 차렸고 개발 담당으로 안드로이드앱, 아이오에스앱, 그리고 웹사이트를 만들었습니다. 현재는 백앤드가 유지보수 되고 있지 않아 사이트 사용이 불가합니다.",
+      "images": [
+        "images/portfolio/hanintaxi/p1.png",
+        "images/portfolio/hanintaxi/p2.png",
+        "images/portfolio/hanintaxi/p3.png"
+      ],
+      "url": "https://www.hanintaxi.net/login",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "title": "정육점",
+      "startDate": "2022",
+      "description": "정육점을 위한 샘플 웹사이트. Framer-motion을 사용한 애니메이션과 Material UI를 사용하여 아름답고 모바일 프렌들리하게 만들었습니다.",
+      "images": [
+        "images/portfolio/butcher/p1.png",
+        "images/portfolio/butcher/p2.png"
+      ],
+      "url": "https://butcher-kappa.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Zen-CDSS",
+      "startDate": "2022",
+      "description": "네팔에 있는 클리닉을 위한 클리니컬 디시젼 시스템. 다커를 사용하여 팀원들이 효율적으로 일을 할 수 있었습니다. 최대한 자유도를 높이는 것을 중점적으로 다뤄 유져들이 원하는 양식을 직접 만들 수 있습니다.",
+      "images": [
+        "images/portfolio/cdss/p1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "자동 구매 봇",
+      "startDate": "2021",
+      "description": "자바스크립트 퍼페티어를 사용한 봇입니다. 친구에게 PS5 를 사주기 위해 며칠간 돌리며 사용했었습니다.",
+      "images": [
+        "images/portfolio/autobuy/p1.png"
+      ],
+      "url": "https://github.com/damon6291/resellbot",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "포트폴리오-V1",
+      "startDate": "2020",
+      "description": "노스이스턴 대학교 4학년때 기초부터 만든 포트폴리오 사이트입니다. 스크롤 매직을 사용하여 유저들에게 애니메이션 효과를 주었습니다.",
+      "images": [
+        "images/portfolio/portfolio-v1/p1.png",
+        "images/portfolio/portfolio-v1/p2.png"
+      ],
+      "url": "https://damon6291.github.io/Portfolio-React/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "James Mcguinness and Associates",
+      "title": "Full-stack Enginner",
+      "years": "01.2021 - present",
+      "mainTech": [
+        ".NET Framework",
+        "SQL server",
+        "Javascript"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "SignalR"
+      ],
+      "icon": "fab fa-js experience-icon"
+    },
+    {
+      "company": "HaninTaxi",
+      "title": "CTO & Co-Founder",
+      "years": "11.2022 - 06.2023",
+      "mainTech": [
+        "React",
+        "Flutter"
+      ],
+      "technologies": [
+        "PostgreSQL",
+        ".Net Framework",
+        "JavaScript",
+        "Docker"
+      ],
+      "icon": "fab fa-react experience-icon"
+    },
+    {
+      "company": "Brain Power",
+      "title": "Full-stack Enginner Co-op",
+      "years": "05.2020 - 08.2020",
+      "mainTech": [
+        "React",
+        "Angular"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "icon": "fab fa-angular experience-icon"
+    },
+    {
+      "company": "Computer Science and Accounting",
+      "title": "Northeastern University",
+      "years": "09.2017 - 12.2020",
+      "mainTech": [
+        "Education"
+      ],
+      "technologies": [
+        "Object Oriented Design",
+        "Computer Systems",
+        "Website Development",
+        "Software Development"
+      ],
+      "icon": "fa fa-graduation-cap experience-icon"
+    }
+  ]
+}
