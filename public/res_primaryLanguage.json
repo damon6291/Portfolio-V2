@@ -1,0 +1,212 @@
+{
+    "basic_info": {
+      "description_header": "I am in love with Coding",
+      "description": "👋 I'm Damon Joung. I am a passionate full stack developer most experienced React, .net Framework, and SQL server. I have created several projects from scratch using different stacks to better experience full stack. I also have experienced designing and publishing the full life cycle of an app. With these experiences, I will succeed in any team and environment.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "BlueBook",
+        "startDate": "2023",
+        "description": "Current working project. I am trying to copy the SAT bluebook app on my own website. Admins will be able to create tests, sections, and questions, and the students will be able to solve the practice SAT tests.",
+        "images": [
+          "images/portfolio/bluebook/p1.png",
+          "images/portfolio/bluebook/p2.png"
+        ],
+        "url": "https://github.com/damon6291/bluebook",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "HaninTaxi",
+        "startDate": "2022",
+        "description": "Created a uber like app for B2B. I was the CTO in creating android and ios app using flutter, and creating website for business to manage drivers. Personal project for study subject. The Site is not usable as backend server is not maintained anymore.",
+        "images": [
+          "images/portfolio/hanintaxi/p1.png",
+          "images/portfolio/hanintaxi/p2.png",
+          "images/portfolio/hanintaxi/p3.png"
+        ],
+        "url": "https://www.hanintaxi.net/login",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Butcher Website",
+        "startDate": "2022",
+        "description": "This is a sample website I built for a local butcher store. It is built with animations such as framer-motion. I used material UI to design the website and make it mobile friendly.",
+        "images": [
+          "images/portfolio/butcher/p1.png",
+          "images/portfolio/butcher/p2.png"
+        ],
+        "url": "https://butcher-kappa.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Zen-CDSS",
+        "startDate": "2022",
+        "description": "This is a CDSS system for clinic in Nepal. Our team used docker to easily work as a team. Our focus was to give much freedom as possible, where the clinic can create their own forms.",
+        "images": [
+          "images/portfolio/cdss/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Auto Buy Bot",
+        "startDate": "2021",
+        "description": "This is a Javascript Puppeteer bot I created to buy PS5 for a friend. I used this for couple days to automatically checkout PS5 when it is in stock.",
+        "images": [
+          "images/portfolio/autobuy/p1.png"
+        ],
+        "url": "https://github.com/damon6291/resellbot",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio-V1",
+        "startDate": "2020",
+        "description": "My first portfolio website craeted from scrath. This was created when I was senior in Northeastern University. I used scroll magic for animation to attract users.",
+        "images": [
+          "images/portfolio/portfolio-v1/p1.png",
+          "images/portfolio/portfolio-v1/p2.png"
+        ],
+        "url": "https://damon6291.github.io/Portfolio-React/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "James Mcguinness and Associates",
+        "title": "Full-stack Enginner",
+        "years": "01.2021 - present",
+        "mainTech": [
+          ".NET Framework",
+          "SQL server",
+          "Javascript"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "SignalR"
+        ],
+        "icon": "fab fa-js experience-icon"
+      },
+      {
+        "company": "HaninTaxi",
+        "title": "CTO & Co-Founder",
+        "years": "11.2022 - 06.2023",
+        "mainTech": [
+          "React",
+          "Flutter"
+        ],
+        "technologies": [
+          "PostgreSQL",
+          ".Net Framework",
+          "JavaScript",
+          "Docker"
+        ],
+        "icon": "fab fa-react experience-icon"
+      },
+      {
+        "company": "Brain Power",
+        "title": "Full-stack Enginner Co-op",
+        "years": "05.2020 - 08.2020",
+        "mainTech": [
+          "React",
+          "Angular"
+        ],
+        "technologies": [
+          "JavaScript"
+        ],
+        "icon": "fab fa-angular experience-icon"
+      },
+      {
+        "company": "Computer Science and Accounting",
+        "title": "Northeastern University",
+        "years": "09.2017 - 12.2020",
+        "mainTech": [
+          "Education"
+        ],
+        "technologies": [
+          "Object Oriented Design",
+          "Computer Systems",
+          "Website Development",
+          "Software Development"
+        ],
+        "icon": "fa fa-graduation-cap experience-icon"
+      }
+    ]
+  }
