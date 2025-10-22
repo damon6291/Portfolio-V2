@@ -147,10 +147,27 @@
       }
     ],
     "experience": [
+        {
+        "company": "HANYS",
+        "title": "Full-stack Enginner",
+        "years": "09.2024 - present",
+        "mainTech": [
+          ".NET Framework",
+          "SQL server",
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "CICD",
+          "IIS"
+        ],
+        "icon": "fab fa-js experience-icon"
+      },
       {
         "company": "James Mcguinness and Associates",
         "title": "Full-stack Enginner",
-        "years": "01.2021 - present",
+        "years": "01.2021 - 09.2024",
         "mainTech": [
           ".NET Framework",
           "SQL server",
